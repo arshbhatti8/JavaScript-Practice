@@ -5,5 +5,5 @@ function getNthOccurence (inputString,word,index) {
     console.log("joinString:",joinString);
     return joinString.length;
 }
-inputString = "Geeks gfg Geeks Geeks Geeks gfg";
+inputString = "Geeks gfg Geeks Geeks Geeks gfg"
 console.log("Position:",getNthOccurence(inputString,"Geeks",3));
